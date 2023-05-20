@@ -79,12 +79,14 @@
     
 ***
     
-<h2 align="center">Github Activity📊 !! 😊 </h2>   
+<h2 align="center">Github Activity📊 !! 😊 </h2>  
    
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=sheril04&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheril04&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   
+
    </tr> 
   
    
@@ -98,10 +100,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
   </tr> 
    
- <tr>
-   <td><img src="https://activity-graph.herokuapp.com/graph?username=sheril04&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
+ 
   
 </table>
 
