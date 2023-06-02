@@ -17,7 +17,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sheril.Rastogi-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/sheril-rastogi-89a409209/)](https://www.linkedin.com/in/sheril-rastogi-89a409209/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/sheril#0180)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/s.h.e.r.i.l.04/)](https://instagram.com/s.h.e.r.i.l.04)
 [![Gmail Badge](https://img.shields.io/badge/-sherilrastogi04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:sherilrastogi04@gmail.com)](mailto:sherilrastogi04@gmail.com)
 
 
