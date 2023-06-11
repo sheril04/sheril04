@@ -1,8 +1,8 @@
-<h3 align="center"> <p>Welcome! To My Profile</p> </h3>
+<h3 align="center"> <p>Welcome! To My Profile </p> </h3>
 
-# **Hello! I am Sheril Rastogi** 
+# **Hello! I am Sheril Rastogi ✨** 
 
-**ABOUT ME :**
+**ABOUT ME 👧💻**
 
 > I am an **Developer** by nature and a **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor.**
 
@@ -20,11 +20,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-sherilrastogi04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:sherilrastogi04@gmail.com)](mailto:sherilrastogi04@gmail.com)
 
 
-## "Positions! :
+## "Positions! 🏆 :
 
-- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**
-- Open Source Contribution at **@GSWoC'21**
-- Software Developer & Manager at **@Antrix Club**
+- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**🏫
+- Open Source Contribution at **@GSWoC'21**❄️ 
+- Software Developer & Manager at **@Antrix Club**🚀 
 
 
 ## "My skills! :
@@ -61,7 +61,7 @@
 
 > I'm In the cycle of:
 
-  ▪️Coding ▪️Programming ▪️Developing ▪️
+  ▪️Coding ▪️Programming ▪️Developing 
 
 ***
  
@@ -82,12 +82,12 @@
    
 <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=sheril04&theme=tokyonight&show_icons=true&hide_border=true" /> </td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=sheril04&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" /> </td>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheril04&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td> 
    
   </tr> 
 <tr>
-<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight" alt="sheril04" /></td>
+<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight&count_private=true&include_all_commits=true" alt="sheril04" /></td>
  </tr>
  
   
@@ -99,7 +99,7 @@
  
  <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=tokyonight"  display=block width=100% height=auto  alt="1" >   </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=tokyonight&count_private=true&include_all_commits=true"  display=block width=100% height=auto  alt="1" >   </td>
   </tr> 
    
  
