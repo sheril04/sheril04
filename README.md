@@ -8,7 +8,7 @@
 
 > An engineering student with high expertise in **Website and Software Development.**
 
-> The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
+> The person who loves coding and exploring new things always tries to **learn in public and loves to work in a team.**
 
 > I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
@@ -82,12 +82,12 @@
    
 <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=sheril04&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" /> </td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=sheril04&theme=tokyonight&hide_border=true" /> </td>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheril04&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td> 
    
   </tr> 
 <tr>
-<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight&count_private=true&include_all_commits=true" alt="sheril04" /></td>
+<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight" alt="sheril04" /></td>
  </tr>
  
   
@@ -99,7 +99,7 @@
  
  <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=tokyonight&count_private=true&include_all_commits=true"  display=block width=100% height=auto  alt="1" >   </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheril04&theme=tokyonight"  display=block width=100% height=auto  alt="1" >   </td>
   </tr> 
    
  
