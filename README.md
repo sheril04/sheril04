@@ -6,7 +6,7 @@
 
 > I am an **Developer** by nature and a **Engineer**  by passion, a **Tech Enthusiast**, **an Open-Source Contributor.**
 
-> An engineering student with high expertise in **Website and Software Development.**
+> An engineering student with high expertise in **Mobile Application Developer** and **Website Developer.**
 
 > The person who loves coding and exploring new things always tries to **learn in public and loves to work in a team.**
 
@@ -22,7 +22,7 @@
 
 ## "Positions! 🏆 :
 
-- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)**🏫
+- Computer Science Engineering Student at **[Vellore Institute of Technology](http://vitbhopal.ac.in/)** 🏫
 - Open Source Contribution at **@GSWoC'21**❄️ 
 - Software Developer & Manager at **@Antrix Club**🚀 
 
@@ -52,6 +52,7 @@
 
  ## **"You can ask to me about!:**
 
+- Mobile App Development using **Flutter**
 - Front-end development using **React.js**
 - Solving Data structure and algorithm questions in **C++**
 
@@ -82,12 +83,8 @@
    
 <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=sheril04&theme=tokyonight&hide_border=true" /> </td>
      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheril04&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td> 
-   
-  </tr> 
-<tr>
-<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight" alt="sheril04" /></td>
+     <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sheril04&theme=tokyonight" alt="sheril04" /></td>
  </tr>
  
   
